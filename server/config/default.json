@@ -1,0 +1,5 @@
+{
+    "serverPORT":5000,
+    "dbURL":"mongodb+srv://VladyslavKozlov:vv654321@cloud.euzv4.mongodb.net/cloud?retryWrites=true&w=majority",
+    "secretKey":"hello world"
+}
